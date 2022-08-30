@@ -1,7 +1,7 @@
 import { FC } from 'react';
-import ContadorArrowFunction from '../components/ContadorArrowFuncao';
-import ContadorClass from '../components/ContadorClasse';
-import ContadorFunction from '../components/ContadorFuncao';
+import ContadorArrowFunction from './ContadorArrowFuncao';
+import ContadorClass from './ContadorClasse';
+import ContadorFunction from './ContadorFuncao';
 
 const ContadorTeste: FC = () => {
   return (

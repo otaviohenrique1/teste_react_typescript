@@ -25,6 +25,7 @@ function ThemedButton() {
 export default function UseContextTeste() {
   return (
     <div>
+      <h1>UseContextTeste</h1>
       <ThemedButton />
     </div>
   )
