@@ -1,6 +1,6 @@
 import './App.css';
 import UseEffectTeste from './pages/HooksTeste/UseEffectTeste';
-import UseLayoutEffectTeste from './pages/HooksTeste/UseEffectTeste copy';
+import UseLayoutEffectTeste from './pages/HooksTeste/UseLayoutEffectTeste';
 import UseReducerTeste from './pages/HooksTeste/UseReducerTeste';
 import UseStateTeste from './pages/HooksTeste/UseStateTeste';
 

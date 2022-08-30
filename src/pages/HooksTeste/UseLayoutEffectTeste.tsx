@@ -20,3 +20,7 @@ export default function UseLayoutEffectTeste() {
     </div>
   )
 }
+
+/*
+  useLayoutEffect dispara na mesma fase que componentDidMount e componentDidUpdate
+*/
