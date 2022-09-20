@@ -1,18 +1,20 @@
 import './App.css';
-import UseCallbackTeste from './pages/HooksTeste/UseCallbackTeste';
-import UseContextTeste from './pages/HooksTeste/UseContextTeste';
-import UseDebugValueTeste from './pages/HooksTeste/UseDebugValueTeste';
-import UseEffectTeste from './pages/HooksTeste/UseEffectTeste';
-import UseLayoutEffectTeste from './pages/HooksTeste/UseLayoutEffectTeste';
-import UseMemoTeste from './pages/HooksTeste/UseMemoTeste';
-import UseReducerTeste from './pages/HooksTeste/UseReducerTeste';
-import UseRefTeste from './pages/HooksTeste/UseRefTeste';
-import UseStateTeste from './pages/HooksTeste/UseStateTeste';
+// import ComponenteNaoControlado2 from './pages/ComponentesNaoControlados/ComponenteNaoControlado2';
+import ComponenteNaoControlado3 from './pages/ComponentesNaoControlados/ComponenteNaoControlado3';
+// import UseCallbackTeste from './pages/HooksTeste/UseCallbackTeste';
+// import UseContextTeste from './pages/HooksTeste/UseContextTeste';
+// import UseDebugValueTeste from './pages/HooksTeste/UseDebugValueTeste';
+// import UseEffectTeste from './pages/HooksTeste/UseEffectTeste';
+// import UseLayoutEffectTeste from './pages/HooksTeste/UseLayoutEffectTeste';
+// import UseMemoTeste from './pages/HooksTeste/UseMemoTeste';
+// import UseReducerTeste from './pages/HooksTeste/UseReducerTeste';
+// import UseRefTeste from './pages/HooksTeste/UseRefTeste';
+// import UseStateTeste from './pages/HooksTeste/UseStateTeste';
 
 function App() {
   return (
     <div className="App">
-      <UseStateTeste/>
+      {/* <UseStateTeste/>
       <hr style={{ width: "100%" }} />
       <UseReducerTeste />
       <hr style={{ width: "100%" }} />
@@ -29,6 +31,10 @@ function App() {
       <UseCallbackTeste />
       <hr style={{ width: "100%" }} />
       <UseRefTeste />
+      <hr style={{ width: "100%" }} /> */}
+      <hr style={{ width: "100%" }} />
+      {/* <ComponenteNaoControlado2 /> */}
+      <ComponenteNaoControlado3 />
       <hr style={{ width: "100%" }} />
     </div>
   );
